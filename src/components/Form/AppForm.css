@@ -1,0 +1,50 @@
+.AppForm{
+    display: flex !important;
+    flex-direction: column;
+    padding: 12px;
+}
+
+.AppForm label{
+    margin: 3px 0px !important;
+    text-align: left;
+}
+
+.AppForm input{
+    padding: 10px !important;
+    margin: 0px 0px 10px 0px !important;
+    border-radius: 8px;
+    font-size: calc(1.2 * var(--fs_16));
+    font-weight: 700;
+    border: 2px solid var(--Light_gray);
+    cursor: pointer;
+}
+
+.AppForm input:last-of-type{
+    margin: 10px 0px 0px 0px !important;
+    color: var(--Marine_blue);
+    font-size: calc(1.4 * var(--fs_16));
+    background-color: var(--Light_blue);
+    border: 0 !important;
+    width: 50% !important;
+    margin-left: auto !important;
+}
+
+.AppForm input:last-of-type:hover{
+    color: #000;
+    cursor: pointer;
+    border: 0 !important;
+}
+
+.AppForm input:focus{
+    border: 2px solid var(--Cool_gray);
+    outline: none !important;
+    cursor: pointer;
+}
+
+#root > div > div > div > div > div > div > div > p > form > span {
+    color: var(--Strawberry_red) !important;
+    font-size: 12px;
+    font-weight: 600;
+    text-align: end;
+    margin: 0 !important;
+}

@@ -1,0 +1,23 @@
+.bg_Switch{
+    background-color: var(--Magnolia);
+    border-radius: 8px;
+}
+
+.bg_Switch h5{
+    display: inline-block;
+    font-size: 20px;
+    padding-top: 5px;
+    color: var(--Marine_blue);
+}
+
+.css-byenzh-MuiButtonBase-root-MuiSwitch-switchBase.Mui-checked {
+    color: var(--Alabaster) !important;
+}
+
+.css-byenzh-MuiButtonBase-root-MuiSwitch-switchBase.Mui-checked+.MuiSwitch-track {
+    background-color: var(--Marine_blue) !important;
+}
+
+.css-jsexje-MuiSwitch-thumb{
+    color: var(--Marine_blue) !important;
+}

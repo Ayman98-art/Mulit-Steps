@@ -1,0 +1,27 @@
+.AppThanks{
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    flex-direction: column !important;
+    padding: 5px;
+}
+
+.AppThanks div:first-child{
+    padding-bottom: 20px;
+}
+
+.AppThanks div:last-child{
+    text-align: center !important;
+    margin-left: 0px !important;
+}
+
+.TitleCollaps .mainTitle{
+    font-size: calc(2.1* var(--fs_16)) !important;
+}
+
+.TitleCollaps .subTitle{
+    padding-top: 12px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    line-height: 1.6;
+}

@@ -1,0 +1,49 @@
+.bg_SelectPick{
+    background-color: var(--Magnolia);
+    width: 95% ;
+    margin: 20px auto 0px auto !important;;
+    height: auto;
+    border: 1px solid var(--Marine_blue);
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all .4s;
+}
+
+.bg_SelectPick--modify{
+    border: none !important;
+}
+
+.bg_SelectPick:hover{
+    background-color: var(--Alabaster);
+}
+
+.item1{
+    padding: 10px;
+}
+
+.item1 h4{
+    font-size: 18px;
+    color: var(--Marine_blue);
+}
+
+.item1 p{
+    font-size: var(--fs_16);
+    color: var(--Cool_gray);
+}
+
+.item1 h5{
+    color: var(--Marine_blue);
+    font-size: var(--fs_16);
+    font-weight: 700;
+    text-align: right;
+    padding-right: 10px;
+}
+
+.bg_SelectPick--modify :is(.item1) :is(p,h5,h4){
+    color: var(--Cool_gray) !important;
+    font-weight: 500 !important;
+}
+
+.py-5{
+    margin: 5px 0px 8px 0px !important;
+}

@@ -1,0 +1,183 @@
+@media (max-width: 500px ) {
+
+.App {
+    background-color: var(--Alabaster);
+    width: 75% !important;
+    height: auto;
+    text-align: center;
+    padding: 15px 25px;
+    border-radius: 8px;
+}
+
+.css-736hmf-MuiGrid-root {
+    margin-top: 0px !important;
+}
+
+.css-9tmuzo-MuiStepper-root {
+    flex-direction: row !important;
+}
+
+/* first form */
+.parentItem {
+    background-size: cover !important;
+    background-position: bottom center !important;
+    min-height: 15vh !important;
+    max-width: 100% !important;
+    border-radius: 8px !important;
+}
+
+.css-1hv8oq8-MuiStepLabel-label {
+    display: none !important;
+}
+
+.css-736hmf-MuiGrid-root>.MuiGrid-item {
+    padding-left: 0px !important;
+}
+
+/* mainTitle */
+.mainTitle_res {
+    font-size: calc(1.5 * var(--fs_16)) !important;
+}
+
+/* secound form */
+.css-zow5z4-MuiGrid-root {
+    flex-direction: column !important;
+    align-items: center;
+}
+
+.css-1avfedz-MuiGrid-root>.MuiGrid-item,
+.css-1avfedz-MuiGrid-root {
+    margin-top: 0px !important;
+}
+
+/* third form */
+.bg_SelectPick {
+    width: auto !important;
+}
+.css-3r4f5f-MuiGrid-root>.MuiGrid-item {
+    padding-left: 0px !important;
+}
+.css-1avfedz-MuiGrid-root>.MuiGrid-item {
+    padding-top: 0px !important;
+}
+.css-3r4f5f-MuiGrid-root{
+    flex-direction: column !important;
+}
+.css-69i1ev{
+    flex-direction: column !important;
+}
+.css-dyj9pi-MuiFormControlLabel-root {
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+    padding-right: 0px !important;
+}
+.css-13brihr {
+    text-align: center !important;
+}
+.css-1ruxp1v {
+    padding: 10px !important;
+}
+.css-ltxhc9 {
+    padding: 10px 5px !important;
+}
+
+/* four form */
+.subTitle {
+    font-size: 14px !important;
+}
+
+/* footer form */
+.css-2royc9 {
+    flex-direction: column !important;
+}
+
+}
+
+@media (min-width: 500px) and (max-width: 800px) {
+
+    .App {
+        background-color: var(--Alabaster);
+        width: 85% !important;
+        height: auto;
+        text-align: center;
+        padding: 15px 25px;
+        border-radius: 8px;
+    }
+    
+    /* first form */
+    .parentItem {
+        background-size: cover !important;
+        background-position: bottom center !important;
+        min-height: 15vh !important;
+        max-width: 100% !important;
+        border-radius: 8px !important;
+    }
+    
+    .css-736hmf-MuiGrid-root>.MuiGrid-item {
+        padding-bottom: 15px !important;
+    }
+    
+    /* mainTitle */
+    .mainTitle_res {
+        font-size: calc(1.5 * var(--fs_16)) !important;
+    }
+    
+    /* secound form */
+    .css-zow5z4-MuiGrid-root {
+        flex-direction: column !important;
+        align-items: center;
+    }
+    
+    .css-1avfedz-MuiGrid-root>.MuiGrid-item,
+    .css-1avfedz-MuiGrid-root {
+        margin-top: 0px !important;
+    }
+
+    .css-1avfedz-MuiGrid-root>.MuiGrid-item {
+        padding-top: 0px !important;
+    }
+}
+
+@media (min-width: 800px) and (max-width: 1120px){
+    .App {
+        background-color: var(--Alabaster);
+        width: 85% !important;
+        height: auto;
+        text-align: center;
+        padding: 15px 25px;
+        border-radius: 8px;
+    }
+    
+    /* first form */
+    .parentItem {
+        background-size: cover !important;
+        background-position: bottom center !important;
+        min-height: 15vh !important;
+        max-width: 100% !important;
+        border-radius: 8px !important;
+    }
+    
+    .css-736hmf-MuiGrid-root>.MuiGrid-item {
+        padding-bottom: 15px !important;
+    }
+    
+    /* mainTitle */
+    .mainTitle_res {
+        font-size: calc(1.5 * var(--fs_16)) !important;
+    }
+    
+    /* secound form */
+    .css-zow5z4-MuiGrid-root {
+        flex-direction: column !important;
+        align-items: center;
+    }
+    
+    .css-1avfedz-MuiGrid-root>.MuiGrid-item,
+    .css-1avfedz-MuiGrid-root {
+        margin-top: 0px !important;
+    }
+    
+    .css-1avfedz-MuiGrid-root>.MuiGrid-item {
+        padding-top: 0px !important;
+    }
+}

@@ -1,0 +1,15 @@
+.mainTitle{
+    font-size: calc(1.1 * var(--fs_16)) !important;
+    color: var(--Marine_blue);
+    font-weight: 700;
+}
+
+.subTitle{
+    color: var(--Cool_gray);
+    font-weight: 500;
+}
+
+.MainTitleLeft{
+    text-align: left;
+    margin-left: 10px !important;
+}

@@ -1,0 +1,8 @@
+.App{
+  background-color: var(--Alabaster);
+  width: 60%;
+  height: auto;
+  text-align: center;
+  padding: 15px 25px;
+  border-radius: 8px;
+}

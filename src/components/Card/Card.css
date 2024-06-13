@@ -1,0 +1,39 @@
+.css-46bh2p-MuiCardContent-root:last-child {
+    padding-bottom: 20px 5px !important;
+    border-radius: 8px !important;
+    border: 2px solid var(--Cool_gray);
+    cursor: pointer;
+    transition: all .4s;
+}
+
+.css-46bh2p-MuiCardContent-root:last-child:hover{
+    border: 2px solid var(--Marine_blue);
+}
+
+.css-17lvz0h-MuiPaper-root-MuiCard-root {
+    box-shadow: none !important;
+    border-radius: 0 !important;
+    padding-top: 12px;
+}
+.imgIcon{
+    padding-bottom: 25px;
+}
+
+.CardContent{
+    text-align: left !important;
+}
+
+.CardContent h3, .CardContent span{
+    padding-bottom: 0 !important;
+    padding-top: 10px !important;
+}
+
+.CardContent h3{
+    color: var(--Marine_blue);
+    font-weight: 600;
+}
+
+.CardContent span{
+    color: var(--Cool_gray);
+    font-weight: 500;
+}

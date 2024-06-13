@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+/* 
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 300, 400 , 500 , 700;
+  font-style: normal , italic;
+*/
+
+/* responsive file */
+@import url('./components/responsive/responsive.css');
+
+:root{  
+
+/* Primary */
+  --Marine_blue: hsl(213, 96%, 18%);
+  --Purplish_blue: hsl(243, 100%, 62%);
+  --Pastel_blue: hsl(228, 100%, 84%);
+  --Light_blue: hsl(206, 94%, 87%);
+  --Strawberry_red: hsl(354, 84%, 57%);
+
+/* Neutral */
+  --Cool_gray: hsl(231, 11%, 63%);
+  --Light_gray: hsl(229, 24%, 87%);
+  --Magnolia: hsl(217, 100%, 97%);
+  --Alabaster: hsl(231, 100%, 99%);
+  --White: hsl(0, 0%, 100%);
+
+  /* Typography */
+  --fs_16: 1rem;
+  --f_family: "Ubuntu", sans-serif;
+  --f_weight: 700;
+  --f_style: normal;
+
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body{
+  font-size: var(--fs_16);
+  font-family: var(--f_family);
+  font-style: var(--f_style);
+  font-weight: var(--f_weight);
+  background-color: var(--Light_blue);
+}
+
+::placeholder{
+  font-size: calc(var(--fs_16) / 1.2);
+  font-weight: 400;
+}

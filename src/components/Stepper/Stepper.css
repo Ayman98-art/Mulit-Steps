@@ -1,0 +1,47 @@
+.css-8t49rw-MuiStepConnector-line {
+    display: block;
+    border-color: transparent !important;
+    border-left-style: none !important;
+    border-left-width: 0px !important;
+    min-height: 0px !important;
+    padding: 12px 0px;
+}
+
+.css-9tmuzo-MuiStepper-root {
+    align-items: flex-start;
+}
+
+.css-rko9yk-MuiButtonBase-root-MuiStepButton-root {
+    width: 75%;
+}
+
+.css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root.Mui-completed {
+    color: var(--Marine_blue) !important;
+    background-color: var(--Light_blue) !important;
+}
+
+.css-1vyamtt-MuiStepLabel-labelContainer {
+    color: var(--Alabaster) !important;
+}
+
+.css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root{
+    width: 30px !important;
+    height: auto !important;
+    color: transparent !important;
+    border: 2px solid var(--Alabaster) !important;
+    border-radius: 50%;
+}
+
+.parentItem{
+    background-image: url(../../assets/images/bg-sidebar-desktop.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: 85vh;
+}
+
+.Next_Step{
+    background-color: var(--Marine_blue) !important;
+    color: var(--White) !important;
+    padding: 10px !important;
+    font-size: 12px !important;
+}
