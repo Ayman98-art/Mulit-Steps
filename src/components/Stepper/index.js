@@ -10,8 +10,8 @@ import AppForm from "../Form";
 import Thanks from "../Thanks";
 import SelectPlan from "../SelectPlan";
 import PickAdds from "../PickAdds";
-import "./Stepper.css";
 import Finishing from "../Finishing";
+import "./Stepper.css";
 
 const steps = [
     `Step 1 Your info`,
@@ -92,7 +92,7 @@ function MulitStepper() {
     };
 
 return (
-<>
+<div className='MulitStepper'>
 <Box sx={{ width: "100%" }}>
     <Grid container spacing={2} pb={0} pt={2} px={1}>
 
@@ -168,7 +168,7 @@ return (
 
     </Grid>
 </Box>
-</>
+</div>
 );
 }
 
