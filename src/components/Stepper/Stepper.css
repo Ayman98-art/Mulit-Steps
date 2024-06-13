@@ -1,4 +1,4 @@
-.MulitStepper .css-8t49rw-MuiStepConnector-line {
+.MulitStepper .css-vgb7rt {
     display: block;
     border-color: transparent !important;
     border-left-style: none !important;
@@ -7,24 +7,24 @@
     padding: 12px 0px;
 }
 
-.MulitStepper .css-9tmuzo-MuiStepper-root {
+.MulitStepper .css-j7qwjs {
     align-items: flex-start;
 }
 
-.MulitStepper .css-rko9yk-MuiButtonBase-root-MuiStepButton-root {
+.MulitStepper .css-105xk4f{
     width: 75%;
 }
 
-.MulitStepper .css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root.Mui-completed {
+.MulitStepper .css-4ff9q7 {
     color: var(--Marine_blue) !important;
     background-color: var(--Light_blue) !important;
 }
 
-.MulitStepper .css-1vyamtt-MuiStepLabel-labelContainer {
+.MulitStepper .css-2fdkz6{
     color: var(--Alabaster) !important;
 }
 
-.MulitStepper .css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root{
+.MulitStepper .css-4ff9q7{
     width: 30px !important;
     height: auto !important;
     color: transparent !important;
