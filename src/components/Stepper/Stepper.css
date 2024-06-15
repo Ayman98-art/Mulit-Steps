@@ -33,7 +33,7 @@ MuiStepLabel-label Mui-completed .css-2fdkz6,
 .MulitStepper .css-4ff9q7{
     width: 30px !important;
     height: auto !important;
-    color: transparent !important;
+    color: var(--Marine_blue) !important;
     border: 2px solid var(--Alabaster) !important;
     border-radius: 50%;
 }
