@@ -10,12 +10,13 @@
 .css-1j2pjck:hover,
 .css-46bh2p-MuiCardContent-root:last-child:hover{
     border: 2px solid var(--Marine_blue);
+    border-radius: 8px !important;
 }
 
 .css-1j2pjck,
 .css-17lvz0h-MuiPaper-root-MuiCard-root {
     box-shadow: none !important;
-    border-radius: 0 !important;
+    border-radius: 8px !important;
     padding-top: 12px;
 }
 
