@@ -28,10 +28,11 @@ MuiStepLabel-label Mui-completed .css-2fdkz6,
     color: var(--Alabaster) !important;
 }
 
+.css-4ff9q7.Mui-completed,
 .MulitStepper .css-4ff9q7{
     width: 30px !important;
     height: auto !important;
-    color: var(--Light_blue) !important;
+    color: var(--Marine_blue) !important;
     border: 2px solid var(--Alabaster) !important;
     border-radius: 50%;
 }

@@ -1,4 +1,4 @@
-.MuiCardContent-root CardContent .css-1qw96cp,
+.MuiCardContent-root .CardContent .css-1qw96cp,
 .css-46bh2p-MuiCardContent-root:last-child {
     padding-bottom: 20px 5px !important;
     border-radius: 8px !important;
@@ -6,7 +6,8 @@
     cursor: pointer;
     transition: all .4s;
 }
-MuiCardContent-root CardContent .css-1qw96cp:hover,
+
+MuiCardContent-root .CardContent .css-1qw96cp:hover,
 .css-46bh2p-MuiCardContent-root:last-child:hover{
     border: 2px solid var(--Marine_blue);
 }
