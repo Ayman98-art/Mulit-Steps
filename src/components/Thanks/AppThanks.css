@@ -16,7 +16,7 @@
 }
 
 .TitleCollaps .mainTitle{
-    font-size: calc(1.7* var(--fs_16)) !important;
+    font-size: calc(1.4* var(--fs_16)) !important;
 }
 
 .TitleCollaps .subTitle{
