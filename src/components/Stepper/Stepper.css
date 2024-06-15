@@ -19,7 +19,7 @@
 .css-4ff9q7.Mui-completed,
 .MulitStepper .css-4ff9q7 {
     color: var(--Marine_blue) !important;
-    background-color: transparent !important;
+    background-color: var(--Light_blue) !important;
 }
 
 /* span text */
@@ -33,7 +33,7 @@ MuiStepLabel-label Mui-completed .css-2fdkz6,
 .MulitStepper .css-4ff9q7{
     width: 30px !important;
     height: auto !important;
-    color: var(--Marine_blue) !important;
+    color: transparent !important;
     border: 2px solid var(--Alabaster) !important;
     border-radius: 50%;
 }
