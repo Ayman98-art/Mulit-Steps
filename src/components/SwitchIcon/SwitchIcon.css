@@ -10,14 +10,17 @@
     color: var(--Marine_blue);
 }
 
+.css-1uf4bbi.Mui-checked + .MuiSwitch-track,
 .css-byenzh-MuiButtonBase-root-MuiSwitch-switchBase.Mui-checked {
     color: var(--Alabaster) !important;
 }
 
+.css-1uf4bbi.Mui-checked + .MuiSwitch-track,
 .css-byenzh-MuiButtonBase-root-MuiSwitch-switchBase.Mui-checked+.MuiSwitch-track {
     background-color: var(--Marine_blue) !important;
 }
 
+.css-19gndve,
 .css-jsexje-MuiSwitch-thumb{
     color: var(--Marine_blue) !important;
 }

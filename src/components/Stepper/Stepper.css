@@ -15,19 +15,23 @@
     width: 75%;
 }
 
+/* circel */
 .MulitStepper .css-4ff9q7 {
     color: var(--Marine_blue) !important;
-    background-color: var(--Light_blue) !important;
+    background-color: transparent !important;
 }
 
+/* span text */
+MuiStepLabel-label Mui-completed .css-2fdkz6,
 .MulitStepper .css-2fdkz6{
+    font-size: 14px;
     color: var(--Alabaster) !important;
 }
 
 .MulitStepper .css-4ff9q7{
     width: 30px !important;
     height: auto !important;
-    color: transparent !important;
+    color: var(--Light_blue) !important;
     border: 2px solid var(--Alabaster) !important;
     border-radius: 50%;
 }
