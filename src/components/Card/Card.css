@@ -4,7 +4,7 @@
     border-radius: 8px !important;
     border: 2px solid var(--Cool_gray);
     cursor: pointer;
-    transition: all .4s;
+    transition: all .4s !important;
 }
 
 .css-1j2pjck:hover,
